@@ -38,8 +38,8 @@ If you feel parts of the list are unclear or missing important details, feel fre
 1. Fork the repository by clicking the "Fork" button at the top-right corner of the page.
 2. Clone your fork:
    ```bash
-   git clone https://github.com/your-username/awesome-terminal-tools.git
-   cd awesome-terminal-tools
+   git clone https://github.com/your-username/awesome-terminal.git
+   cd awesome-terminal
 
 ### Key Features of this Contributing Page:
 1. **Clear Guidelines**: Defines how to contribute (e.g., adding new resources, fixing issues).
