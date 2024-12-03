@@ -29,6 +29,7 @@ The terminal is an essential tool for developers, system administrators, and tec
 ### Cross-Platform
 - **[Alacritty](https://alacritty.org/)** - A blazing-fast terminal emulator written in Rust. 🚀
 - **[Kitty](https://sw.kovidgoyal.net/kitty/)** - A GPU-based terminal emulator with tiling support and advanced features.
+- **[WezTerm](https://wezfurlong.org/wezterm/)** - A GPU-accelerated terminal emulator and multiplexer with modern features like built-in tabs, panes, and extensive customization options.
 
 ### Linux
 - **[GNOME Terminal](https://help.gnome.org/users/gnome-terminal/)** - Default terminal emulator for GNOME desktops.
