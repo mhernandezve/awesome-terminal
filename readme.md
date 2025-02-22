@@ -43,15 +43,11 @@ The terminal is an essential tool for developers, system administrators, and tec
 - **[iTerm2](https://iterm2.com/)** - A powerful terminal replacement for macOS.
 - **[Hyper](https://hyper.is/)** - A highly extensible, JavaScript-based terminal emulator.
 
----
-
 ## Shell Enhancements
 - **[Oh My Zsh](https://ohmyz.sh/)** - A delightful framework for managing your Zsh configuration. 🛠️
 - **[Starship](https://starship.rs/)** - A fast, customizable, cross-shell prompt written in Rust.
 - **[Fish Shell](https://fishshell.com/)** - A smart and user-friendly shell with out-of-the-box features.
 - **[Powerlevel10k](https://github.com/romkatv/powerlevel10k)** - A highly customizable Zsh theme.
-
----
 
 ## CLI Tools
 - **[fzf](https://github.com/junegunn/fzf)** - A command-line fuzzy finder for blazing-fast searches.
@@ -60,19 +56,13 @@ The terminal is an essential tool for developers, system administrators, and tec
 - **[bat](https://github.com/sharkdp/bat)** - A `cat` clone with syntax highlighting and Git integration.
 - **[ripgrep](https://github.com/BurntSushi/ripgrep)** - A line-oriented search tool that combines speed and usability.
 
----
-
 ## TUI Tools
 - **[kaskade](https://github.com/sauljabin/kaskade)** - A text user interface for kafka.
-
----
 
 ## Customization
 - **[tmux](https://github.com/tmux/tmux)** - Terminal multiplexer for managing multiple terminal sessions.
 - **[Tilda](https://github.com/lanoxx/tilda)** - A drop-down terminal for Linux with customization options.
 - **[WezTerm](https://wezfurlong.org/wezterm/)** - A GPU-accelerated terminal emulator and multiplexer.
-
----
 
 ## Resources
 - **[Exploring Shells](https://explainshell.com/)** - An interactive shell manual that explains command-line options and arguments.
