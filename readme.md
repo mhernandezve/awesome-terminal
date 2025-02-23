@@ -58,6 +58,7 @@ The terminal is an essential tool for developers, system administrators, and tec
 
 ## TUI Tools
 - **[kaskade](https://github.com/sauljabin/kaskade)** - A text user interface for kafka.
+- **[lazygit](https://github.com/jesseduffield/lazygit)** - A simple terminal UI for git commands. 
 
 ## Customization
 - **[tmux](https://github.com/tmux/tmux)** - Terminal multiplexer for managing multiple terminal sessions.
